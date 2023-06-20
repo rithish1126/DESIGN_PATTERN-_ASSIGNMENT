@@ -14,6 +14,7 @@ notified and display the latest weather information.
 - Each display device is responsible for updating its own user interface and displaying the received weather data.
 - The system allows new display devices to be added without modifying the existing code of the weather station or other display devices.
 - Display devices have the flexibility to unsubscribe from the weather station if they no longer wish to receive updates.
+<img width="789" alt="Screenshot 2023-06-20 at 5 07 18 PM" src="https://github.com/rithish1126/DESIGN_PATTERN-_ASSIGNMENT/assets/122535424/11d38891-7dea-4ed2-b43a-498641d2e244">
 
 # Task 2
 
@@ -40,4 +41,6 @@ input.
 - **MotorcycleFactory_class (Concrete Creator):** Represents a concrete creator that creates Motorcycle objects. It implements the `create_vehicle()` method to create a Motorcycle object with the desired maximum speed.
 
 - **TruckFactory_class (Concrete Creator):** Represents a concrete creator that creates Truck objects. It implements the `create_vehicle()` method to create a Truck object with the desired maximum speed.
+  
+<img width="692" alt="Screenshot 2023-06-20 at 5 08 00 PM" src="https://github.com/rithish1126/DESIGN_PATTERN-_ASSIGNMENT/assets/122535424/ecadadbd-d4a4-42ac-b363-8c0cb9c97257">
 
