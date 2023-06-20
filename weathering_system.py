@@ -22,9 +22,9 @@ class WeatherStation_class:
             observer.update(weather_data)  
 
     def get_weather_data(self):
-        temperature = 25.5
-        humidity = 60.0
-        pressure = 1013.25
+        temperature = 60
+        humidity = 46
+        pressure = 599
         return {'temperature': temperature, 'humidity': humidity, 'pressure': pressure}  # Simulated method to fetch weather data
 
     def start_monitoring(self):
